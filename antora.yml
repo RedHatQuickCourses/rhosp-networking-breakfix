@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: rhosp-networking-breakfix
+title: Red Hat OpenStack Platform - Break-fix Practice
 version: 1
 nav:
 - modules/ROOT/nav.adoc

@@ -1,27 +1,12 @@
-= An Example Quick Course
+= An Example Break-fix course
 :navtitle: Home
 
 == Introduction
 
-Course Title: Course title FIXME
+TITLE1: Red Hat Enterprise Linux 9 (FIXME product)
+
+TITLE2: Break-fix Practice 1 (FIXME title)
 
 Description:
-Course description FIXME
+This break-fix training simulates a problem FIXME . You'll investigate and solve the problem in a hands-on lab environment to complete the training.
 
-Duration: FIXME hours
-
-== Objectives
-
-On completing this course, you should be able to:
-
-* Observable, measurable objective...
-* Observable, measurable objective...
-* Observable, measurable objective...
-
-== Prerequisites
-
-This course assumes that you have the following prior experience:
-
-* Course or experience...
-* Course or experience...
-* Course or experience...

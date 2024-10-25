@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Red Hat OpenStack Platform - Break-fix Practice
+  start_page: rhosp-networking-breakfix::index.adoc
 
 content:
   sources:
